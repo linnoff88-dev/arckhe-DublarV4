@@ -1,4 +1,4 @@
-﻿# Dublar v5
+# Dublar v5
 
 Pipeline completo de dublagem automatica de videos com IA. Transcreve, traduz e dubla videos de qualquer idioma usando modelos de IA locais e na nuvem. Inclui interface web com monitor em tempo real e suporte GPU via Docker.
 
@@ -50,7 +50,7 @@ Pipeline completo de dublagem automatica de videos com IA. Transcreve, traduz e 
 
 ```bash
 # 1. Clonar repositorio
-git clone https://github.com/inematds/dublarv5.git
+git clone https://github.com/linnoff88-dev/dublarv5.git
 cd dublarv5
 
 # 2. Instalar dependencias do pipeline
@@ -318,4 +318,4 @@ curl http://localhost:11434/api/tags
 
 ---
 
-Projeto adaptado da comunidade INEMA TDS - Marca Arckhe
+Projeto adaptado da comunidade ARCKHÉ TDS - Marca Arckhe
